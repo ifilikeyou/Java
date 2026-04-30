@@ -6,7 +6,7 @@ package com.example.calculator;
 public class Calculator {
     
     /**
-     * 加法运算
+     * 加法
      * @param a 第一个操作数
      * @param b 第二个操作数
      * @return 两数之和
